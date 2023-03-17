@@ -1,4 +1,5 @@
-# Data Engineering and Modelling Applicant Information
+![header image](img/header.png.png)
+
 Information for potential applicants for Data Engineering and Data Modelling roles within the Data and Analysis division of the Ministry of Justice. Here you will find additional information about what work we do.
 
 Last updated: 16th March 2023 by [mshodge](https://github.com/mshodge)
