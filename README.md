@@ -1,4 +1,4 @@
-![header image](img/header.png.png)
+![header image](img/header.png)
 
 Information for potential applicants for Data Engineering and Data Modelling roles within the Data and Analysis division of the Ministry of Justice. Here you will find additional information about what work we do.
 
