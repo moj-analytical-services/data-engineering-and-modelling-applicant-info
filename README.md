@@ -28,7 +28,7 @@ At all levels, our Data Modellers work with the end users of data to understand 
 
 ### Data Engineering and Modelling Team (DMET)
 
-The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), Counterterrorism, the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold), as well as a Service Management team who helps technical leads engage and work with stakeholders.
+The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineering and Data Modelling teams are supported by a Service Management team who help technical leads engage and work with stakeholders.
 
 ### Digital Platform
 
@@ -44,11 +44,13 @@ The Analytical Platform (AP) provides access to recent versions of open–source
 
 ### Analytical Platform Tools
 
-The team has developed a number of Python and R tools, and Web Apps, for users on the Analytical Platform. This includes [pydbtools](https://github.com/moj-analytical-services/pydbtools), which is a package for querying MoJAP athena databases with useful features including temp table creation, and [Create a Derived Table](https://user-guidance.services.alpha.mojanalytics.xyz/tools/create-a-derived-table/), a tool for creating persistent derived tables in Athena. We continue to develop more tools to make using the Analytical Platform easier for our users.
+The team has developed a number of Python and R tools, and Web Apps, for users on the Analytical Platform. This includes [pydbtools](https://github.com/moj-analytical-services/pydbtools), which is a package for querying MoJAP athena databases with useful features including temp table creation, and [Create a Derived Table](https://user-guidance.services.alpha.mojanalytics.xyz/tools/create-a-derived-table/), a tool for creating persistent derived tables in Athena.
+
+We continue to develop more tools to make using the Analytical Platform easier for our users, and information on some of these is [available in the Analytical Platform User Guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/#python-packages).
 
 ### Splink
 
-[splink](https://github.com/moj-analytical-services/splink) is a Python package for probabilistic record linkage (entity resolution). Under its hood it is a PySpark package that implements the Fellegi-Sunter model of record linking, and enables parameters to be estimated using the Expectation Maximisation algorithm. It is used across government for data linking and won several awards over the years.
+[splink](https://github.com/moj-analytical-services/splink) is a Python package for probabilistic record linkage (entity resolution). Under its hood it is a PySpark package that implements the Fellegi-Sunter model of record linking, and enables parameters to be estimated using the Expectation Maximisation algorithm. It is used across government for data linking and won several awards over the years. Splink was developed and is maintained by a Data Linking team which sits within the same directorate as and works closely with our Data Engineering teams.
 
 ---------
 
