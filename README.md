@@ -20,7 +20,7 @@ At all levels, our Data Engineers design and develop robust data pipelines so th
 
 ### What does a Data Modeller do?
 
-At all levels, our Data Modellers work with the end users of data to understand their requirements and needs. They will translate conceptual data model designs into computer code to deliver data to the end user. They will also analyse the quality of the data and communicate their findings to data owners so improvements can be made.
+At all levels, our Data Modellers work with end users of data to understand their requirements, as well as with data suppliers to understand the data sources. They capture business processes, and design conceptual models to provide comprehensive, intuitive, and resilient content to underpin all relevant analytical use cases.  They bring an enterprise-wide perspective by working with colleagues to cross-reference requirements across domains, before translating conceptual designs into computer code to deliver facts, dimensions, derived tables and business metadata to end users. They work to ensure data quality is measured and presented to users, and to inform improvement by communicating findings to data owners.  They promote content to analytical user communities and gather feedback to shape further development and integration.
 
 ---------
 
