@@ -1,8 +1,8 @@
 ![header image](img/header.png)
 
-Information for potential applicants for Data Engineering and Data Modelling roles within the Data and Analysis division of the Ministry of Justice. Here you will find additional information about what work we do.
+Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice. Here you will find additional information about what work we do.
 
-Last updated: 16th March 2023 by [mshodge](https://github.com/mshodge)
+Last updated: 4th April 2023 by [mshodge](https://github.com/mshodge)
 
 ---------
 
@@ -10,17 +10,17 @@ Last updated: 16th March 2023 by [mshodge](https://github.com/mshodge)
 
 Welcome. 
 
-Data Engineers and Data Modellers within the Ministry of Justice’s Data and Analysis division work across two teams, one which delivers solutions to internal stakeholder needs across the organisation (DMET), and another that works on a cutting-edge data platform (Data Platform). We have a section below on what the difference is between the two teams.
+Data Engineers and Analytics Engineers within the Ministry of Justice’s Data and Analysis division work across two teams, one which delivers solutions to internal stakeholder needs across the organisation (DMET), and another that works on a cutting-edge data platform (Data Platform). We have a section below on what the difference is between the two teams.
 
-As a Data Engineer or Modeller in our teams you will get the opportunity to continue to build your coding skills, as well as develop new and exciting cloud computing capabilities using Amazon Web Service (AWS). We don’t just focus on developing technical skills though. You will also gain experience working directly with stakeholders to deliver important solutions to key Ministry of Justice needs. You won’t be alone either. As well as being part of a growing team within DMET or Data Platform, you will also be part of a large analytical community at the Ministry of Justice and use your expertise to shape the future of how data is used in decision making.
+As a Data Engineer or Analytics Engineer in our teams you will get the opportunity to continue to build your coding skills, as well as develop new and exciting cloud computing capabilities using Amazon Web Service (AWS). We don’t just focus on developing technical skills though. You will also gain experience working directly with stakeholders to deliver important solutions to key Ministry of Justice needs. You won’t be alone either. As well as being part of a growing team within DMET or Data Platform, you will also be part of a large analytical community at the Ministry of Justice and use your expertise to shape the future of how data is used in decision making.
 
 ### What does a Data Engineer do?
 
 At all levels, our Data Engineers design and develop robust data pipelines so that data can be transformed into a form that Ministry of Justice Data Scientists and Analysts can use. They are also responsible for managing data access to the Ministry of Justice’s [Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html).  Data Engineers will also be expected to directly work alongside key departments within the Ministry of Justice, and be able to explain technical solutions in non-technical ways.
 
-### What does a Data Modeller do?
+### What does a Analytics Engineer do?
 
-At all levels, our Data Modellers work with end users of data to understand their requirements, as well as with data suppliers to understand the data sources. They capture business processes, and design conceptual models to provide comprehensive, intuitive, and resilient content to underpin all relevant analytical use cases.  They bring an enterprise-wide perspective by working with colleagues to cross-reference requirements across domains, before translating conceptual designs into computer code to deliver facts, dimensions, derived tables and business metadata to end users. They work to ensure data quality is measured and presented to users, and to inform improvement by communicating findings to data owners.  They promote content to analytical user communities and gather feedback to shape further development and integration.
+At all levels, our Analytics Engineers work with end users of data to understand their requirements, as well as with data suppliers to understand the data sources. They capture business processes, and design conceptual models to provide comprehensive, intuitive, and resilient content to underpin all relevant analytical use cases.  They bring an enterprise-wide perspective by working with colleagues to cross-reference requirements across domains, before translating conceptual designs into computer code to deliver facts, dimensions, derived tables and business metadata to end users. They work to ensure data quality is measured and presented to users, and to inform improvement by communicating findings to data owners.  They promote content to analytical user communities and gather feedback to shape further development and integration.
 
 ---------
 
@@ -28,7 +28,7 @@ At all levels, our Data Modellers work with end users of data to understand thei
 
 ### Data Engineering and Modelling Team (DMET)
 
-The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineering and Data Modelling teams are supported by a Service Management team who help technical leads engage and work with stakeholders.
+The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineers and Analytics Engineers are supported by a Service Management team who help technical leads engage and work with stakeholders.
 
 ### Digital Platform
 
@@ -51,9 +51,3 @@ We continue to develop more tools to make using the Analytical Platform easier f
 ### Splink
 
 [splink](https://github.com/moj-analytical-services/splink) is a Python package for probabilistic record linkage (entity resolution). Under its hood it is a PySpark package that implements the Fellegi-Sunter model of record linking, and enables parameters to be estimated using the Expectation Maximisation algorithm. It is used across government for data linking and won several awards over the years. Splink was developed and is maintained by a Data Linking team which sits within the same directorate as and works closely with our Data Engineering teams.
-
----------
-
-## Find out more
-
-To be added.
