@@ -30,7 +30,7 @@ At all levels, our Analytics Engineers work with end users of data to understand
 
 The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineers and Analytics Engineers are supported by a Service Management team who help technical leads engage and work with stakeholders.
 
-### Digital Platform
+### Data Platform
 
 Add summary here.
 
