@@ -1,26 +1,26 @@
 ![header image](img/header.png)
 
-Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice. Here you will find additional information about what work we do.
+Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice (MoJ). Here you will find additional information about what work we do.
 
-Last updated: 4th April 2023 by [mshodge](https://github.com/mshodge)
+Last updated: 13th April 2023 by [calumabarnett](https://github.com/calumabarnett)
 
 ---------
 
 ## Who are we
 
-Welcome. 
+Welcome 👋
 
-Data Engineers and Analytics Engineers within the Ministry of Justice’s Data and Analysis division work across two teams, one which delivers solutions to internal stakeholder needs across the organisation (DMET), and another that works on a cutting-edge data platform (Data Platform). We have a section below on what the difference is between the two teams.
+Data engineers and analytics engineers within the Ministry of Justice’s Data and Analysis directorate work across two teams, one which delivers solutions to internal stakeholder needs across the organisation, the Data Modelling and Engineering Team (DMET), and another that works on a cutting-edge data platform, the Data Platform Team. We have a section below on what the difference is between the two teams.
 
-As a Data Engineer or Analytics Engineer in our teams you will get the opportunity to continue to build your coding skills, as well as develop new and exciting cloud computing capabilities using Amazon Web Service (AWS). We don’t just focus on developing technical skills though. You will also gain experience working directly with stakeholders to deliver important solutions to key Ministry of Justice needs. You won’t be alone either. As well as being part of a growing team within DMET or Data Platform, you will also be part of a large analytical community at the Ministry of Justice and use your expertise to shape the future of how data is used in decision making.
+As a data engineer or analytics engineer in our teams you will get the opportunity to continue to build your coding skills, as well as develop new and exciting cloud computing capabilities using Amazon Web Service (AWS). We don’t just focus on developing technical skills though. You will also gain experience working directly with stakeholders to deliver important solutions to key Ministry of Justice needs. You won’t be alone either. As well as being part of a growing team within DMET or Data Platform, you will also be part of a large data and analytical community at the Ministry of Justice and use your expertise to shape the future of how data is used in decision making.
 
-### What does a Data Engineer do?
+### What does a data engineer do?
 
-At all levels, our Data Engineers design and develop robust data pipelines so that data can be transformed into a form that Ministry of Justice Data Scientists and Analysts can use. They are also responsible for managing data access to the Ministry of Justice’s [Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html).  Data Engineers will also be expected to directly work alongside key departments within the Ministry of Justice, and be able to explain technical solutions in non-technical ways.
+At all levels, our data engineers design and develop robust data pipelines so that data can be transformed into a form that data scientists and analysts can use. We are also responsible for managing access to data on our [Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html). Data engineers will also be expected to directly work alongside key departments within the Ministry of Justice, and be able to explain technical solutions in non-technical ways.
 
-### What does a Analytics Engineer do?
+### What does an analytics engineer do?
 
-At all levels, our Analytics Engineers work with end users of data to understand their requirements, as well as with data suppliers to understand the data sources. They capture business processes, and design conceptual models to provide comprehensive, intuitive, and resilient content to underpin all relevant analytical use cases.  They bring an enterprise-wide perspective by working with colleagues to cross-reference requirements across domains, before translating conceptual designs into computer code to deliver facts, dimensions, derived tables and business metadata to end users. They work to ensure data quality is measured and presented to users, and to inform improvement by communicating findings to data owners.  They promote content to analytical user communities and gather feedback to shape further development and integration.
+At all levels, our analytics engineers work with end users of data to understand their requirements, as well as with data suppliers to understand the data sources. They capture business processes, and design conceptual models to provide comprehensive, intuitive, and resilient content to underpin all relevant analytical use cases. They bring an enterprise-wide perspective by working with colleagues to cross-reference requirements across domains, before translating conceptual designs into computer code to deliver facts, dimensions, derived tables and business metadata to end users. They work to ensure data quality is measured and presented to users, and to inform improvement by communicating findings to data owners. They promote content to analytical user communities and gather feedback to shape further development and integration.
 
 ---------
 
@@ -32,7 +32,17 @@ The Data Modelling and Engineering team works across several areas of the Minist
 
 ### Data Platform
 
-Add summary here.
+The Data Platform team is responsible for running our existing [Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/), which is used by over 500 analysts and data scientists. We are also at the beginning of our journey to develop a new Data Platform for all of MoJ, built on the principles of Data Mesh, to ensure that everyone, at all levels of the department, has the right data at the right time to make effective decisions that improve justice outcomes.
+
+Data engineers work within multidisciplinary teams alongside technical, product, delivery and user-centred design colleauges to build and maintain platform components that are used by data producers, data users and data consumers to share, find, access, process and manage data. 
+
+For example, we are responsible for:
+
+- [Airflow](https://user-guidance.services.alpha.mojanalytics.xyz/tools/airflow/), which enables people to automate complex data and analytical workflows
+- [dbt](https://user-guidance.services.alpha.mojanalytics.xyz/tools/create-a-derived-table/), which enables people to quickly and easily transform and model raw data to make it more useful and useable
+- various tools that enable data producers to send us their data in a self-service way, and build standardised pipeline infrastructure
+
+Our work is incredibly varied but has a strong infrastructure focus and involves elements of software development as well as data engineering.
 
 ---------
 
