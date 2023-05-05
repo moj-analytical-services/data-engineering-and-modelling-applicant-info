@@ -14,7 +14,7 @@ We have the current roles open at the moment:
 - [Lead Analytics Engineer (Grade 7)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-ba169ef8396e/candidate/so/pm/1/pl/3/opp/73656-73656-Lead-Analytics-Engineer-Data-Analysis-Ministry-of-Justice-1-role-available/en-GB)
 - [Senior Analytics Engineer (SEO)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-24a95e4ee51f/candidate/so/pm/1/pl/3/opp/73657-73657-Senior-Analytics-Engineer-Data-Analysis-Ministry-of-Justice-1-role-available/en-GB)
 
-We also will be running a webinar event on Tuesday 25th April 2023 at 18:00 where we will be covering lots of information and taking questions 👉 [sign up here](https://events.teams.microsoft.com/event/1413ee6b-f791-47a7-ad40-e26e1df18f96@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
+We also ran a webinar event on Tuesday 25th April 2023 at 18:00 where we covered lots of information and taking questions 👉 [you can watch the recording here](https://youtu.be/50D8plzryBQ)
 
 See below 👇 for more information on these roles and a few generic questions we have answered.
 
