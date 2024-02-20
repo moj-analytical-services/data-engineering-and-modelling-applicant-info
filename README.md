@@ -2,17 +2,23 @@
 
 Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice (MoJ). Here you will find additional information about what work we do.
 
-Last updated: 18th April 2023 by [mshodge](https://github.com/mshodge)
+Last updated: 20th February 2024 by [oliver-critchfield](https://github.com/oliver-critchfield)
 
 # WE ARE RECRUITING!
 
 We have the current roles open at the moment:
 
-- [Lead Data Engineer (Grade 7)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-6c53ece6c921/candidate/so/pm/1/pl/3/opp/73463-73463-Lead-Data-Engineer-Data-Analysis-Ministry-of-Justice-3-roles-available/en-GB)
-- [Senior Data Engineer (SEO)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-305a998b0ce7/candidate/so/pm/1/pl/3/opp/73530-73530-Senior-Data-Engineer-Data-Analysis-Ministry-of-Justice-2-roles-available/en-GB)
-- [Data Engineer (HEO)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-b585c4235a17/candidate/so/pm/1/pl/3/opp/73531-73531-Data-Engineer-Data-Analysis-Ministry-of-Justice-1-role-available/en-GB)
-- [Lead Analytics Engineer (Grade 7)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-ba169ef8396e/candidate/so/pm/1/pl/3/opp/73656-73656-Lead-Analytics-Engineer-Data-Analysis-Ministry-of-Justice-1-role-available/en-GB)
-- [Senior Analytics Engineer (SEO)](https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-15/xf-24a95e4ee51f/candidate/so/pm/1/pl/3/opp/73657-73657-Senior-Analytics-Engineer-Data-Analysis-Ministry-of-Justice-1-role-available/en-GB)
+- [Analytics Engineer Apprenticeships](link-not-live-yet) 
+- Lead Data Engineer (Grade 7) on EOI
+- Senior Data Engineer (SEO) on EOI
+- Senior Analytics Engineer (SEO) on EOI
+
+We are running a webinar event for the apprenticeship programme on Monday 4th March 2024 at 18:00 at which we'll share information on
+- The context of Data and Analytics Engineering within the MoJ, our philosopy of data provision and the analytical teams we support
+- A deep dive into Analytics Engineering in our team
+- The curriculum and delivery and learning processes for the apprenticeship, delivered by our apprenticeship partner, QA
+- Applying for positions in the Civil Service, with hints and tips for a successful application
+This will also be an opportunity to ask questions about the role. You can [sign up for this here](https://events.teams.microsoft.com/event/6dcbb0d9-cb5a-4577-b7f5-c0be0309e7e9@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
 
 We also ran a webinar event on Tuesday 25th April 2023 at 18:00 where we covered lots of information and taking questions 👉 [you can watch the recording here](https://youtu.be/50D8plzryBQ)
 
@@ -42,7 +48,7 @@ At all levels, our analytics engineers work with end users of data to understand
 
 ### Data Engineering and Modelling Team (DMET)
 
-The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineers and Analytics Engineers are supported by a Service Management team who help technical leads engage and work with stakeholders.
+The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineers and Analytics Engineers are supported by a Service Management approach which helps technical leads engage and work with stakeholders.
 
 ### Data Platform
 
@@ -86,26 +92,6 @@ The roles are national. We have a number of offices around the England and Wales
 
 We're open to flexible and hybrid working arrangements that include regular home working, but you'll need to go to one of these offices from time to time. 
 
-### What is the salary?
-
-The roles on offer are across three different salary bands at the MoJ. But here is a breakdown of the salary ranges:
-
-- Grade 7 👉 National £51,767 - £59,590, London £55,720 - £64,135
-- SEO 👉 National £37,683 - £41,506, London £43,647 - £48,067
-- HEO 👉 National £31,265 - £34,446, London £35,405 - £39,000
-
-The Data Engineer roles are also entitled to DDaT Allowance, which is added to your base salary:
-
-- Grade 7 👉 maximum allowance of £22,758 
-- SEO 👉 maximum allowance of £14,655
-- HEO 👉 maximum allowance of £5,273
-
-Your allowance will be calculated based on the skills and experience you demonstrate during the recruitment phases. Whilst in the role you will also have the opportunities to apply for this allowance.
-
-### I am not part of the Civil Service so the terms Grade 7, SEO and HEO confuse me. How do I know what level I should be applying at?
-
-There’s no equation that can translate your skills and experiences directly to a ‘grade’. It depends entirely on your experience and skills, in both a technical and professional capacity. We’re tried to make the skills requirements for each role as easy to understand as possible in the job adverts. In general though, the difference between HEO and Grade 7 is that at Grade 7 you will be managing teams of people, and projects, and have more responsibilities than a HEO.
-
 ### What kind of people are you looking for for these roles?
 
 We are really keen to break away from the archetypal views of a Data Engineer and Analytics Engineer. We really encourage anyone with the relevant skills and willingness to learn to apply. We will support you to learn skills you may not yet had the opportunity to learn, but show an eagerness to. 
@@ -114,6 +100,6 @@ We are really keen to break away from the archetypal views of a Data Engineer an
 
 We’ve setup a mailbox at 👉 dmet-dataplatform-recruitment@digital.justice.gov.uk for any questions. 
 
-And of course, there’s always the webinar too 👉 [sign up here](https://events.teams.microsoft.com/event/1413ee6b-f791-47a7-ad40-e26e1df18f96@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
+And of course, there’s always the webinar too 👉 [sign up here](https://events.teams.microsoft.com/event/6dcbb0d9-cb5a-4577-b7f5-c0be0309e7e9@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
 
 
