@@ -1,26 +1,25 @@
 ![header image](img/header.png)
 
-Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice (MoJ). Here you will find additional information about what work we do.
+Information for potential applicants for Data Engineering and Analytics Engineering roles within the Data directorate of the Ministry of Justice (MoJ). Here you will find additional information about the work we do.
 
-Last updated: 20th February 2024 by [oliver-critchfield](https://github.com/oliver-critchfield)
+Last updated: 9th August 2024 by [hollyfurniss-moj](https://github.com/hollyfurniss-moj)
 
 # WE ARE RECRUITING!
 
 We have the current roles open at the moment:
 
-- [Analytics Engineer Apprenticeships](link-not-live-yet) 
-- Lead Data Engineer (Grade 7) on EOI
-- Senior Data Engineer (SEO) on EOI
-- Senior Analytics Engineer (SEO) on EOI
+- Lead Data Engineer (Grade 7)
+- Lead Analytics Engineer (Grade 7)
+- Senior Data Engineer (SEO)
+- Senior Analytics Engineer (SEO)
+- Analytics Engineer (HEO)
 
-We are running a webinar event for the apprenticeship programme on Monday 4th March 2024 at 18:00 at which we'll share information on
+We are running a webinar event for the above roles in late August / early September (date & time to be confirmed), at which we'll share information on:
 - The context of Data and Analytics Engineering within the MoJ, our philosopy of data provision and the analytical teams we support
-- A deep dive into Analytics Engineering in our team
-- The curriculum and delivery and learning processes for the apprenticeship, delivered by our apprenticeship partner, QA
 - Applying for positions in the Civil Service, with hints and tips for a successful application
-This will also be an opportunity to ask questions about the role. You can [sign up for this here](https://events.teams.microsoft.com/event/6dcbb0d9-cb5a-4577-b7f5-c0be0309e7e9@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
+This will also be an opportunity to ask questions about the role. 
 
-We also ran a webinar event on Tuesday 25th April 2023 at 18:00 where we covered lots of information and taking questions 👉 [you can watch the recording here](https://youtu.be/50D8plzryBQ)
+We also ran a webinar event on Tuesday 25th April 2023 at 18:00 where we covered lots of information 👉 [you can watch the recording here](https://youtu.be/50D8plzryBQ)
 
 See below 👇 for more information on these roles and a few generic questions we have answered.
 
@@ -48,7 +47,7 @@ At all levels, our analytics engineers work with end users of data to understand
 
 ### Data Engineering and Modelling Team (DMET)
 
-The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with. Our Data Engineers and Analytics Engineers are supported by a Service Management approach which helps technical leads engage and work with stakeholders.
+The Data Modelling and Engineering team works across several areas of the Ministry of Justice to define, design, and deliver Data Engineering and Data Modelling as a service. These areas include [Prison and Probation services](https://www.gov.uk/government/organisations/hm-prison-and-probation-service), [Courts and Tribunal services](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service), the [Office for Public Guardian](https://www.gov.uk/government/organisations/office-of-the-public-guardian), and MoJ Corporate services. We also have cross-cutting areas such as [Data First](https://www.gov.uk/guidance/ministry-of-justice-data-first) and [BOLD](https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold) which are Government data-linking programmes we are involved with.
 
 ### Data Platform
 
@@ -100,6 +99,6 @@ We are really keen to break away from the archetypal views of a Data Engineer an
 
 We’ve setup a mailbox at 👉 dmet-dataplatform-recruitment@digital.justice.gov.uk for any questions. 
 
-And of course, there’s always the webinar too 👉 [sign up here](https://events.teams.microsoft.com/event/6dcbb0d9-cb5a-4577-b7f5-c0be0309e7e9@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
+And of course, there’s always the webinar too 👉 [sign up link coming soon!]
 
 
