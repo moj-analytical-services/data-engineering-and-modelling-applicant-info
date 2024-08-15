@@ -14,12 +14,10 @@ We have the current roles open at the moment:
 - Senior Analytics Engineer (SEO)
 - Analytics Engineer (HEO)
 
-We are running a webinar event for the above roles in late August / early September (date & time to be confirmed), at which we'll share information on:
+We're hosting a webinar event for the above roles on Monday 2nd September 2024, 6-7PM, at which we'll share information on:
 - The context of Data and Analytics Engineering within the MoJ, our philosopy of data provision and the analytical teams we support
 - Applying for positions in the Civil Service, with hints and tips for a successful application
-This will also be an opportunity to ask questions about the role. 
-
-We also ran a webinar event on Tuesday 25th April 2023 at 18:00 where we covered lots of information 👉 [you can watch the recording here](https://youtu.be/50D8plzryBQ)
+This will also be an opportunity to ask questions about the roles. 
 
 See below 👇 for more information on these roles and a few generic questions we have answered.
 
