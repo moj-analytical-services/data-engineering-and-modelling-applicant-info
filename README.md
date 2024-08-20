@@ -97,6 +97,6 @@ We are really keen to break away from the archetypal views of a Data Engineer an
 
 We’ve setup a mailbox at 👉 dmet-dataplatform-recruitment@digital.justice.gov.uk for any questions. 
 
-And of course, there’s always the webinar too 👉 [sign up link](https://events.teams.microsoft.com/event/a1df44e8-cf15-438e-acea-d3834f0de585@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
+And of course, there’s always the webinar too 👉 [sign up here](https://events.teams.microsoft.com/event/a1df44e8-cf15-438e-acea-d3834f0de585@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
 
 
