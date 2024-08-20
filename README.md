@@ -2,7 +2,7 @@
 
 Information for potential applicants for Data Engineering and Analytics Engineering roles within the Data directorate of the Ministry of Justice (MoJ). Here you will find additional information about the work we do.
 
-Last updated: 9th August 2024 by [hollyfurniss-moj](https://github.com/hollyfurniss-moj)
+Last updated: 20th August 2024 by [hollyfurniss-moj](https://github.com/hollyfurniss-moj)
 
 # WE ARE RECRUITING!
 
@@ -14,7 +14,7 @@ We have the current roles open at the moment:
 - Senior Analytics Engineer (SEO)
 - Analytics Engineer (HEO)
 
-We're hosting a webinar event for the above roles on Monday 2nd September 2024, 6-7PM, at which we'll share information on:
+We're hosting a webinar event for the above roles on Monday 2nd September 2024, 6-7PM ([sign up link here](https://events.teams.microsoft.com/event/a1df44e8-cf15-438e-acea-d3834f0de585@c6874728-71e6-41fe-a9e1-2e8c36776ad8)), at which we'll share information on:
 - The context of Data and Analytics Engineering within the MoJ, our philosopy of data provision and the analytical teams we support
 - Applying for positions in the Civil Service, with hints and tips for a successful application
 This will also be an opportunity to ask questions about the roles. 
@@ -97,6 +97,6 @@ We are really keen to break away from the archetypal views of a Data Engineer an
 
 We’ve setup a mailbox at 👉 dmet-dataplatform-recruitment@digital.justice.gov.uk for any questions. 
 
-And of course, there’s always the webinar too 👉 [sign up link coming soon!]
+And of course, there’s always the webinar too 👉 [sign up link](https://events.teams.microsoft.com/event/a1df44e8-cf15-438e-acea-d3834f0de585@c6874728-71e6-41fe-a9e1-2e8c36776ad8)
 
 
