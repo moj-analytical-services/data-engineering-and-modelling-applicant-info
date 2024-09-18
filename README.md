@@ -1,3 +1,7 @@
+This repo is now archived.
+
+Please view our [handbook](https://ministryofjustice.github.io/data-and-analytics-engineering/about/join-us/) for news on our latest recruitment drive.
+
 ![header image](img/header.png)
 
 Information for potential applicants for Data Engineering and Analytics Engineers roles within the Data and Analysis division of the Ministry of Justice (MoJ). Here you will find additional information about what work we do.
